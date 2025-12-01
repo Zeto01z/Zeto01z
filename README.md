@@ -1,4 +1,4 @@
-<h3 align="center">masih pemula...</h3>
+<h3 align="center">Yang saya mau memepermantap</h3>
 
 <p align="left">
 </p>
